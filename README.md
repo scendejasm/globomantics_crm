@@ -1,5 +1,8 @@
-#Globomantics CRM app
+# Globomanics CRM app
 Still under development, but it will be amazing
+
+## Really Dangerous
+making these changes in github
 
 # Module 3: Working with Structured Data and Local Version Control
 This contains the files for the CRM application with the relevant updates
